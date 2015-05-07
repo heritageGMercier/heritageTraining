@@ -1,3 +1,3 @@
 # heritageTraining
 Hello World
-I am realllyy c00l
+I am really cool
